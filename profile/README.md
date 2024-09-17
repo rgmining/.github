@@ -1,5 +1,7 @@
 # Review Graph Mining
 
+![](../logo.png)
+
 A framework of review data mining based on a graph model.
 
 We implement six algorithms:
